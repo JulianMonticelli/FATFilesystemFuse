@@ -1,0 +1,3 @@
+This is an operable FAT filesystem to work with FUSE (Filesystem in USEr space). It was written as my final project for CS1550 during my Spring 2017 semester at Pitt.
+
+NOTICE: If I recall correctly, there was a bug that I could not successfully find before turning the project in - I was, however well aware of it. It was an issue with larger, multi-block files. It didn't happen with just a few blocks, so the issue was hard to track down and I failed to do so in the time frame before submission. It definitely has to do with block allocation and linking. I turned it in and forgot to ever find it because the project was behind me. Now that it is part of an online portfolio, I feel the work is incomplete and I will come back to this at some point and fix the bug.
